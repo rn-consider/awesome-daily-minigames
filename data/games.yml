@@ -1593,3 +1593,10 @@
   category: hubs
   platform: web
   description: Free crosswords, Keyword, Wridges and the daily news quiz.
+
+
+- name: ArrowGame
+  url: https://arrowgame.app/
+  category: logic
+  platform: web
+  description: Clear a shared daily boss by tapping arrows in path order; each day's challenge rotates to a different boss.
